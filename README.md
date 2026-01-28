@@ -25,3 +25,5 @@ Core components:
 - Detail refinement via channel attention
 
 ---
+
+![Alt text](palmnetplus_output.png)
