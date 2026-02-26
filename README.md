@@ -29,6 +29,6 @@ Core components:
 ![Alt text](palmnetplus_output.png)
 
 ### 📄 Paper
-- 📝 *Title:* **A Transformer-Guided Multi-Scale CNN Approach to Single-Channel Image Restoration**
-- 🔗 *Status:* Under review  
+- 📝 *Title:* **[A Transformer-Guided Multi-Scale CNN Approach to Single-Channel Image Restoration](https://doi.org/10.1109/access.2026.3665651)**
+- 🔗 *Status:* Published (IEEE Access)
 
